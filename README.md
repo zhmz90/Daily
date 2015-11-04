@@ -1,7 +1,8 @@
 # Daily
 
 ### 11/4
-    Learn the structure of COSMIC by PGM
+    1. Learn the structure of COSMIC by PGM
+    2. feature selection with random search
 ### 11/3
     A great idea come in mind.
     chose hyperparameter and do feature selection with Guassian Process
