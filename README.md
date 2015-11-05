@@ -1,5 +1,10 @@
 # Daily
 
+## TASK
+    First, classification with an emphase on feature selection
+    Second, GP tune hyperpara
+    Third, PGM / DBM
+
 ### 11/4
     1. Learn the structure of COSMIC by PGM
     2. feature selection with random search
