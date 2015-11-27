@@ -1,5 +1,8 @@
 # Daily
 
+### 11/27 
+    too much ideas to execute so that achived nothing
+
 ## TASK
     First, classification with an emphase on feature selection
     Second, GP tune hyperpara
