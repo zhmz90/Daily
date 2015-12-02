@@ -1,5 +1,9 @@
 # Daily
 
+
+### 12/2
+    finish Flash Project
+
 ### 11/27 
     too much ideas to execute so that achived nothing
 
