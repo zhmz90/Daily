@@ -1,5 +1,7 @@
 # Daily
 
+### 12/3
+    Flash extended and Alogorithms_stanford urgent
 
 ### 12/2
     finish Flash Project
