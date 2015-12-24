@@ -1,5 +1,13 @@
 # Daily
 
+## philosophy
+**less is more**
+
+### 12/24
+	a summary about my skills:
+		One, mathematics including machine learning, mathematical optimization,PGM.
+		Two, computer science including GPU computing, compiler.
+
 ### 12/3
     Flash extended and Alogorithms_stanford urgent
 
