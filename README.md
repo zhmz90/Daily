@@ -1,6 +1,6 @@
 # Daily
 
-    **less is more**
+**less is more**
 
 ### 12/24
 	Summary about my skills:
