@@ -5,6 +5,9 @@
 ### PLAN of This Week
 	test my model in real cfDNA data
 
+### 12/25
+	finish and test gene_location and gene synonym
+
 ### 12/24
 	Summary about my skills:
 		One, mathematics including machine learning, mathematical optimization, PGM.
