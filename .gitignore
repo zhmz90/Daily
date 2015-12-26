@@ -3,3 +3,6 @@
 *.jld
 *.tsv
 *.jl~
+*.zip
+*.gz
+*/data/*
