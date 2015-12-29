@@ -2,6 +2,9 @@
 
 **less is more**
 
+### 12/29
+	make GeneMisc ready for users and prepared to regeister
+
 ### PLAN of This Week
 	test my model in real cfDNA data
 
