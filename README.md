@@ -2,6 +2,9 @@
 
 **less is more**
 
+### 12/30
+	focues the classification task.
+
 ### 12/29
 	make GeneMisc ready for users and prepared to regeister
 
