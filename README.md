@@ -2,6 +2,9 @@
 
 **less is more**
 
+### 12/31
+	just remains a few bugs of work. Go to Deep for now.
+
 ### 12/30
 	focues the classification task.
 
