@@ -2,6 +2,9 @@
 
 **less is more**
 
+### 1/1
+	learn Readdoc and hackrank
+
 ### 12/31
 	just remains a few bugs of work. Go to Deep for now.
 
