@@ -2,9 +2,12 @@
 
 **less is more**
 
+### 1/2
+    readdoc and intro to network, hackerrank, julia, lan
+
 ### 1/1
 	learn Readdoc and hackrank
-
+	learn introduction to network of stanford
 ### 12/31
 	just remains a few bugs of work. Go to Deep for now.
 
