@@ -4,7 +4,7 @@
 
 ### 1/2
     readdoc and intro to network, hackerrank, julia, lan
-
+	one or two machine learning or deep learning package 
 ### 1/1
 	learn Readdoc and hackrank
 	learn introduction to network of stanford
