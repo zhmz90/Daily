@@ -3,8 +3,14 @@
 **less is more**
 
 ### 1/2
+	9:30-11:00 readdoc,julia
+	11:30-2:00 hackerrank python
+	2:00-5:30 apply tensorflow to  one kaggle dataset
+	5:00-7:00 spark,scala
+	8:00-22:00 lan,network
     readdoc and intro to network, hackerrank, julia, lan
 	one or two machine learning or deep learning package 
+	spark, scala
 ### 1/1
 	learn Readdoc and hackrank
 	learn introduction to network of stanford
