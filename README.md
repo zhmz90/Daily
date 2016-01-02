@@ -7,7 +7,7 @@
 	11:30-2:00 hackerrank python
 	2:00-5:30 apply tensorflow to  one kaggle dataset
 	5:00-7:00 spark,scala
-	8:00-22:00 lan,network
+	8:00-22:00 lan,network,htslib
     readdoc and intro to network, hackerrank, julia, lan
 	one or two machine learning or deep learning package 
 	spark, scala
