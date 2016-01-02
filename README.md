@@ -2,6 +2,8 @@
 
 **less is more**
 
+## month 1 / 2015
+
 ### 1/2
 	9:30-11:00 readdoc,julia
 	11:30-2:00 hackerrank python
@@ -14,6 +16,7 @@
 ### 1/1
 	learn Readdoc and hackrank
 	learn introduction to network of stanford
+## month 12 / 2015
 ### 12/31
 	just remains a few bugs of work. Go to Deep for now.
 
@@ -40,10 +43,10 @@
 ### 12/2
     finish Flash Project
 
+## month 11 / 2015
+
 ### 11/27 
     too much ideas to execute so that achived nothing
-
-## TASK
     First, classification with an emphase on feature selection
     Second, GP tune hyperpara
     Third, PGM / DBM
@@ -54,6 +57,8 @@
 ### 11/3
     A great idea come in mind.
     chose hyperparameter and do feature selection with Guassian Process
+	
+## month 10 / 2015
     
 ### 10/27
 
