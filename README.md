@@ -4,6 +4,8 @@
 
 ## month 1 / 2015
 
+### 1/3
+	hackerrank python
 ### 1/2
 	9:30-11:00 readdoc,julia
 	11:30-2:00 hackerrank python
