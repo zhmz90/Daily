@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/4
+	finish Strict except a good model
+
 ### 1/3
 	hackerrank python
 ### 1/2
