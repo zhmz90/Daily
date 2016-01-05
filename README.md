@@ -1,8 +1,11 @@
-# Daily
+B1;3409;0c# Daily
 
 **less is more**
 
 ## month 1 / 2015
+
+### 1/5
+	finish the model part 
 
 ### 1/4
 	finish Strict except a good model
