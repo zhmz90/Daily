@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/6
+	find the methods of handle false positive
+
 ### 1/5
 	finish the model part 
 
