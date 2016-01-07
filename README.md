@@ -7,6 +7,7 @@
 ### 1/7 
 - rewrite Fusion dectect codes
 - use all the haplox data
+
 ### 1/6
 	find the methods of handle false positive
 
