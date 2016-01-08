@@ -4,6 +4,11 @@
 
 ## month 1 / 2015
 
+### 1/8
+- report
+- MXNet.jl
+- apply MXNet.jl
+
 ### 1/7 
 - rewrite Fusion dectect codes
 - use all the haplox data
