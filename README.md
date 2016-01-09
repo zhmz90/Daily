@@ -4,6 +4,10 @@
 
 ## month 1 / 2015
 
+### 1/9
+- Finish work not done of this week
+- Apply Deep Learning to kaggle tasks
+
 ### 1/8
 - report
 - MXNet.jl
