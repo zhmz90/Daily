@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/10
+- a good materal: cs341n:Convolutional Neural Networks for Visual Recognition
+
 ### 1/9
 - Finish work not done of this week
 - Apply Deep Learning to kaggle tasks
