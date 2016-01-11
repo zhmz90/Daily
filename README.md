@@ -4,6 +4,10 @@
 
 ## month 1 / 2015
 
+### 1/11
+- fix codes about work
+- lecture 2 of cs341n
+
 ### 1/10
 - a good materal: cs341n:Convolutional Neural Networks for Visual Recognition
 
