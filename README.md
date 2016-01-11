@@ -7,7 +7,7 @@
 ### 1/11
 - fix codes about work
 - lecture 2 of cs341n
-
+- check basset
 ### 1/10
 - a good materal: cs341n:Convolutional Neural Networks for Visual Recognition
 
