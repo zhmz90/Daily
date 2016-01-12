@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/12
+- model vcf part finish
+
 ### 1/11
 - fix codes about work
 - lecture 2 of cs341n
