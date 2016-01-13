@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/13
+- predict
+
 ### 1/12
 - model vcf part finish
 
