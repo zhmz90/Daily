@@ -1,6 +1,6 @@
 # Daily
 
-**less is more**
+:exclamation: *Less is more*
 
 ## month 1 / 2015
 
