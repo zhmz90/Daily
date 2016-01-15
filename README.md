@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/15
+- check models
+
 ### 1/14
 - hand compare mutations between Small intestine and Biliary tract
 
