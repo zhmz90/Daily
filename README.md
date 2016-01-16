@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/16
+- lecture 3
+
 ### 1/15
 - check models
 
