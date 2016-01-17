@@ -4,6 +4,10 @@
 
 ## month 1 / 2015
 
+### 1/17
+- assign 1
+- week summary
+
 ### 1/16
 - lecture 3
 
