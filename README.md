@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/18
+- vcf data mining
+
 ### 1/17
 - assign 1
 - week summary
