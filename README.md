@@ -4,8 +4,11 @@
 
 ## month 1 / 2015
 
+### 1/20
+- HTSLIB.jl
+
 ### 1/19
-- looking for extreme sparse models in ICML NIPS ICCV and other top journours
+- looking for extreme sparse models in ICML NIPS ICCV and other top journals
 
 ### 1/18
 - vcf data mining
