@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### /22
+- make read bam true
+
 ### 1/21
 - SeqErrorDetector draft
 
