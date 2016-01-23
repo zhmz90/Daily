@@ -4,7 +4,10 @@
 
 ## month 1 / 2015
 
-### /22
+### 1/23
+- Deep Learning from Google
+
+### 1/22
 - make read bam true
 
 ### 1/21
