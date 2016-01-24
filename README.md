@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/24
+- L1,L2,L3 of DL course from Google
+
 ### 1/23
 - Deep Learning from Google
 
