@@ -1,8 +1,13 @@
-# Daily
+B1;3409;0c# Daily
 
 :exclamation: **LESS IS MORE** :exclamation:
 
 ## month 1 / 2015
+
+### 1/25
+- bam read formal form
+- paper about tumor evolution
+- DL of Google
 
 ### 1/24
 - L1,L2,L3 of DL course from Google
