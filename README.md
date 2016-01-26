@@ -1,4 +1,4 @@
-B1;3409;0c# Daily
+# Daily
 
 :exclamation: **LESS IS MORE** :exclamation:
 
