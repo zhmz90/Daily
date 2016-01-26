@@ -4,6 +4,9 @@ B1;3409;0c# Daily
 
 ## month 1 / 2015
 
+### 1/26
+- bam read and bam write
+
 ### 1/25
 - bam read formal form
 - paper about tumor evolution
