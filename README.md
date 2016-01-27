@@ -4,6 +4,9 @@
 
 ## month 1 / 2015
 
+### 1/27
+- hight level wrapper of bam read, write and query
+
 ### 1/26
 - bam read and bam write
 
