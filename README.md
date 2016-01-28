@@ -6,6 +6,9 @@
 
 ## month 1 / 2015
 
+### 1/28
+- bam write and bam header IO
+
 ### 1/27
 - hight level wrapper of bam read, write and query
 
