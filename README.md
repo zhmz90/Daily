@@ -6,6 +6,10 @@
 
 ## month 1 / 2015
 
+### 1/29
+- bam/sam hdr write 
+- bam index
+
 ### 1/28
 - bam write and bam header IO
 
