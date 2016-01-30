@@ -1,4 +1,4 @@
-# Daily
+# Daily: Why
 
 :exclamation: **DILIGENCE** :exclamation:
 
