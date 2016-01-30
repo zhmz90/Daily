@@ -6,6 +6,9 @@
 
 ## month 1 / 2015
 
+### 1/30
+- prepare notebook etc for home
+
 ### 1/29
 - bam/sam hdr write 
 - bam index
