@@ -4,6 +4,11 @@
 
 :exclamation: **LESS IS MORE** :exclamation: 
 
+## month 2 / 2015
+
+### 08/02
+- fix bam query bug
+
 ## month 1 / 2015
 
 ### 1/30
