@@ -1,10 +1,13 @@
-B1;3409;0c# Daily: Why
+# Daily: Why
 
 :exclamation: **DILIGENCE** :exclamation:
 
 :exclamation: **LESS IS MORE** :exclamation: 
 
 ## month 2 / 2015
+
+### 14/02
+- htslib query
 
 ### 12/02
 - fix htslib's bug
