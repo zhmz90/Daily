@@ -19,6 +19,12 @@ typedef struct {
   Bam_core_t bct;
 } Bam_A;
 
+typedef struct {
+  unsigned int one:2,end:30;
+} Hard;
+
+
+
 Bam_core_t * init2(){
   return (Bam_core_t *)calloc(1,sizeof(Bam_core_t));
 }
@@ -64,6 +70,7 @@ int modifty(Bam_t * b){
 }
 
 int main(){
+
   /*
   printf("sizeof(int) is %lu\t",sizeof(int));
   printf("sizeof(unsigned int) is %lu\n",sizeof(unsigned int));
@@ -76,12 +83,19 @@ int main(){
   printf("%d\n",b->n1);
   printf("%d\n",b->n2);
   printf("%d\n",b->l_text);
-  */
+  
   Bam_core_t * bcore = init2();
-    
+
   add1(bcore);
   
   printf("%s\n",bcore->C);
+  */
+
+  Hard h;
+  h.one = 2;
+  h.end = 3;
+  printf("h.one is %d\n", h.one);
+  printf("h.end is %d\n", h.end);
   return 0;
 }
 
