@@ -6,6 +6,9 @@
 
 ## month 2 / 2015
 
+### 15/02
+- htsFile
+
 ### 14/02
 - htslib query
 
