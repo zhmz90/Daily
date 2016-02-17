@@ -6,6 +6,10 @@
 
 ## month 2 / 2015
 
+### 17/02
+- htsFile
+- production related
+
 ### 16/02
 - htslib 
 - 931 genes related
