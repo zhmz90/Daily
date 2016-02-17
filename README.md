@@ -9,6 +9,8 @@
 ### 17/02
 - htsFile
 - production related
+- illumina barcode demutiplex
+- tensorflow udacity assignments
 
 ### 16/02
 - htslib 
