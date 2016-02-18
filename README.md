@@ -1,10 +1,14 @@
-# Daily: Why
+B1;3409;0c# Daily: Why
 
 :exclamation: **DILIGENCE** :exclamation:
 
 :exclamation: **LESS IS MORE** :exclamation: 
 
 ## month 2 / 2015
+
+### 18/02
+- **illumina barcode demutiplex**
+- osx support
 
 ### 17/02
 - htsFile
