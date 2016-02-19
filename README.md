@@ -1,4 +1,4 @@
-B1;3409;0c# Daily: Why
+# Daily: Why
 
 :exclamation: **DILIGENCE** :exclamation:
 
@@ -6,8 +6,12 @@ B1;3409;0c# Daily: Why
 
 ## month 2 / 2015
 
+### 19/02
+- **osx support**
+
 ### 18/02
-- **illumina barcode demutiplex**
+- stat tec support for production manager finished
+- **illumina barcode demutiplex** finished
 - osx support
 
 ### 17/02
