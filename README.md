@@ -6,6 +6,9 @@
 
 ## month 2 / 2015
 
+### 22/02
+- VariantCall for ctDNA: check varscan2
+ 
 ### 20/02
 - Fun.jl
 
