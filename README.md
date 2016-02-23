@@ -6,6 +6,9 @@
 
 ## month 2 / 2015
 
+### 23/02
+- Get underlining principle of BAMSurgeon 
+
 ### 22/02
 - VariantCall for ctDNA: check varscan2
  
