@@ -1,5 +1,7 @@
 # Daily: Why
 
+:exclamation: **突破自我** :exclamation:
+
 :exclamation: **DILIGENCE** :exclamation:
 
 :exclamation: **LESS IS MORE** :exclamation: 
