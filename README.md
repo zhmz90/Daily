@@ -6,6 +6,10 @@
 
 ## month 2 / 2015
 
+### 24/02
+- Simulate data with BAMSurgeon
+- Variant Call with various callers
+
 ### 23/02
 - Get underlining principle of BAMSurgeon 
 
