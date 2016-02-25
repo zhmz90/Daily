@@ -8,6 +8,9 @@
 
 ## month 2 / 2015
 
+### 25/02
+- eval the feature of err baseline
+
 ### 24/02
 - Simulate data with BAMSurgeon
 - Variant Call with various callers
