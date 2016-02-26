@@ -8,6 +8,10 @@
 
 ## month 2 / 2015
 
+### 26/02
+- samples pileup stats
+- Data scitentis toolbox at Coursera
+
 ### 25/02
 - eval the feature of err baseline
 
