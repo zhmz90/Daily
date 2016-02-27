@@ -8,6 +8,9 @@
 
 ## month 2 / 2015
 
+### 27/02
+- Game Theory
+
 ### 26/02
 - samples pileup stats
 - Data scitentis toolbox at Coursera
