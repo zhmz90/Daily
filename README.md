@@ -6,7 +6,7 @@
 
 ### 28/02
 - [x] Game Theory Week Two
-- CS243n segmentation video
+- [x] CS231n segmentation video
 
 ### 27/02
 - Game Theory
