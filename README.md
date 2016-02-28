@@ -1,12 +1,12 @@
 # Daily: Why
 
-:exclamation: **突破自我** :exclamation:
-
-:exclamation: **DILIGENCE** :exclamation:
-
-:exclamation: **LESS IS MORE** :exclamation: 
+:exclamation: **战必胜，攻必克** :exclamation:
 
 ## month 2 / 2015
+
+### 28/02
+- Game Theory Week Two
+- CS243n segmentation video
 
 ### 27/02
 - Game Theory
