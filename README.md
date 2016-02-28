@@ -5,7 +5,7 @@
 ## month 2 / 2015
 
 ### 28/02
-- Game Theory Week Two
+- [x] Game Theory Week Two
 - CS243n segmentation video
 
 ### 27/02
