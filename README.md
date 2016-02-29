@@ -5,8 +5,11 @@
 ## month 2 / 2015
 
 ### 29/02
-- [ ] mpileup APIs of htslib
+- [ ] mpileup APIs of htslib 
 - [ ] CS231 assignment 1 50%
+- [x] download and browse most of variant call papers during 2012-2016
+- [x] finish most of code about pipeline and wait to bug
+- [x] Ng's ML about mixture of Gaussians
 
 ### 28/02
 - [x] Game Theory Week Two
