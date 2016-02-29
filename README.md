@@ -4,6 +4,10 @@
 
 ## month 2 / 2015
 
+### 29/02
+- [ ] mpileup APIs of htslib
+- [ ] CS231 assignment 1 50%
+
 ### 28/02
 - [x] Game Theory Week Two
 - [x] CS231n segmentation video
