@@ -4,6 +4,9 @@
 
 ## month 2 / 2015
 
+### 1/3
+- [ ] Finish pipeline
+
 ### 29/02
 - [ ] mpileup APIs of htslib 
 - [ ] CS231 assignment 1 50%
