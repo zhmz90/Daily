@@ -4,8 +4,12 @@
 
 ## month 2 / 2015
 
+### 2/3
+- [ ] read papers and write varant callers review  
+
 ### 1/3
-- [ ] Finish pipeline
+- [ ] Finish pipeline: finished 60%
+- [x] beta-bionomial distribution
 
 ### 29/02
 - [ ] mpileup APIs of htslib 
