@@ -4,8 +4,14 @@
 
 ## month 2 / 2015
 
+### 3/3
+- [ ] learn scala by 10miniutes
+- [ ] learn java  by 10minimutes
+- [ ] hack Mutect2
+- [ ] hack capp stanford
+
 ### 2/3
-- [ ] read papers and write varant callers review  
+- [ ] read papers and write varant callers review  50%
 
 ### 1/3
 - [ ] Finish pipeline: finished 60%
