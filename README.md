@@ -4,21 +4,25 @@
 
 ## month 2 / 2015
 
+### 7/3
+- [ ] hack Mutect2 
+
 ### 3/3
-- [ ] learn scala by 10miniutes
-- [ ] learn java  by 10minimutes
-- [ ] hack Mutect2
-- [ ] hack capp stanford
+- [x] learn scala by 10miniutes
+- [x] learn java  by 10minimutes
+- [x] hack Mutect2
+- [x] hack capp stanford
+- [x] write week report
 
 ### 2/3
-- [ ] read papers and write varant callers review  50%
+- [x] read papers and write varant callers review  50%
 
 ### 1/3
 - [ ] Finish pipeline: finished 60%
 - [x] beta-bionomial distribution
 
 ### 29/02
-- [ ] mpileup APIs of htslib 
+- [x] mpileup APIs of htslib 
 - [ ] CS231 assignment 1 50%
 - [x] download and browse most of variant call papers during 2012-2016
 - [x] finish most of code about pipeline and wait to bug
