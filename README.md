@@ -4,8 +4,17 @@
 
 ## month 2 / 2015
 
+### Week Goals
+- [ ] Parallel pipeline with Queue
+- [ ] hack M2 throught
+
+### 8/3
+- [ ] find feature for 6+9 samples of lung cancer and normal
+- [ ] prepare clustering code
+
 ### 7/3
-- [ ] hack Mutect2 
+- [x] hack Mutect2 
+- [x] find feature for 6+9 samples of lung cancer and normal
 
 ### 3/3
 - [x] learn scala by 10miniutes
