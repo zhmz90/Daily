@@ -7,10 +7,15 @@
 ### Week Goals
 - [ ] Parallel pipeline with Queue
 - [ ] hack M2 throught
+- [ ] learn scala and java
+
+### 9/3
+- [ ] transfer pipeline to cluster
+- [ ] go throught ScalabyExample
 
 ### 8/3
-- [ ] find feature for 6+9 samples of lung cancer and normal
-- [ ] prepare clustering code
+- [x] find feature for 6+9 samples of lung cancer and normal => gene mutations
+- [x] prepare clustering code
 
 ### 7/3
 - [x] hack Mutect2 
