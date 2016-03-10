@@ -9,9 +9,13 @@
 - [ ] hack M2 throught
 - [ ] learn scala and java
 
+### 10/3
+- [ ] parallel MuTect2
+
 ### 9/3
 - [ ] transfer pipeline to cluster
 - [ ] go throught ScalabyExample
+- [x] scala cheatsheet and simple examples 
 
 ### 8/3
 - [x] find feature for 6+9 samples of lung cancer and normal => gene mutations
