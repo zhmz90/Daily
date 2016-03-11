@@ -9,8 +9,14 @@
 - [ ] hack M2 throught
 - [ ] learn scala and java
 
+### 11/3
+- [ ] backgroud nosie mode
+- [ ] pipeline parallel only GATK part
+- [ ] MuTect2 Rewrite with scala with 3 days
+
+
 ### 10/3
-- [ ] parallel MuTect2
+- [x] parallel MuTect2
 
 ### 9/3
 - [ ] transfer pipeline to cluster
