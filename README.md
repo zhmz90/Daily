@@ -7,7 +7,11 @@
 ### Week Goals
 - [ ] Parallel pipeline with Queue
 - [ ] hack M2 throught
-- [ ] learn scala and java
+- [x] learn scala and java
+
+### 12/3
+- [ ] learn java by Edx course
+- [ ] learn scala by Courera course
 
 ### 11/3
 - [ ] backgroud nosie mode
