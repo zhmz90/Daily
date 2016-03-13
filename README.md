@@ -9,6 +9,9 @@
 - [ ] hack M2 throught
 - [x] learn scala and java
 
+### 13/3
+- [ ] learn spark
+
 ### 12/3
 - [ ] learn java by Edx course
 - [ ] learn scala by Courera course
