@@ -2,7 +2,26 @@
 
 :exclamation: **战必胜，攻必克** :exclamation:
 
-## month 2 / 2015
+## month 3 / 2015
+
+### Week Goals
+- [ ] hack M2 throught
+- [ ] Parallel MuTect2 on Cluster
+
+### 18/3
+- [ ] Presentation about M2
+
+### 17/3
+- [ ] make PPT
+
+### 16/3
+- [ ] parallel M2
+
+### 15/3
+- [ ] M2 Math part
+
+### 14/3
+- [ ] M2 code part
 
 ### Week Goals
 - [ ] Parallel pipeline with Queue
@@ -10,10 +29,10 @@
 - [x] learn scala and java
 
 ### 13/3
-- [ ] learn spark
+- [x] learn spark
 
 ### 12/3
-- [ ] learn java by Edx course
+- [x] learn java by Edx course
 - [ ] learn scala by Courera course
 
 ### 11/3
@@ -51,6 +70,8 @@
 ### 1/3
 - [ ] Finish pipeline: finished 60%
 - [x] beta-bionomial distribution
+
+## month 2 / 2015
 
 ### 29/02
 - [x] mpileup APIs of htslib 
