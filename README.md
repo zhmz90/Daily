@@ -18,10 +18,10 @@
 - [ ] parallel M2
 
 ### 15/3
-- [ ] M2 Math part
+- [ ] M2 Math part TODO
 
 ### 14/3
-- [ ] M2 code part
+- [ ] M2 code part TODO
 
 ### Week Goals
 - [ ] Parallel pipeline with Queue
