@@ -1,4 +1,4 @@
-# Daily: Why
+# Daily
 
 :exclamation: **战必胜，攻必克** :exclamation:
 
@@ -15,13 +15,14 @@
 - [ ] make PPT
 
 ### 16/3
-- [ ] parallel M2
+- [ ] parallel M2 on queue
+- [ ] deep understanding of M2 
 
 ### 15/3
-- [ ] M2 Math part TODO
+- [x] M2 Math part TODO
 
 ### 14/3
-- [ ] M2 code part TODO
+- [x] M2 code part
 
 ### Week Goals
 - [ ] Parallel pipeline with Queue
