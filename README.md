@@ -10,12 +10,13 @@
 
 ### 18/3
 - [ ] Presentation about M2
-
-### 17/3
 - [ ] make PPT
 
+### 17/3
+- [ ] deep understanding of M2 
+
 ### 16/3
-- [ ] parallel M2 on queue
+- [x] parallel M2 on queue
 - [ ] deep understanding of M2 
 
 ### 15/3
