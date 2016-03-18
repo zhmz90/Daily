@@ -11,13 +11,14 @@
 ### 18/3
 - [ ] Presentation about M2
 - [ ] make PPT
+- [ ] pick algorithm
 
 ### 17/3
-- [ ] deep understanding of M2 
+- [x] deep understanding of M2 
 
 ### 16/3
 - [x] parallel M2 on queue
-- [ ] deep understanding of M2 
+- [x] deep understanding of M2 
 
 ### 15/3
 - [x] M2 Math part TODO
