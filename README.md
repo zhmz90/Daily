@@ -4,13 +4,22 @@
 
 ## month 3 / 2015
 
+
+
+
 ### Week Goals
-- [ ] hack M2 throught
-- [ ] Parallel MuTect2 on Cluster
+- [x] hack M2 throught
+- [x] Parallel MuTect2 on Cluster
+
+### 19/3
+- [ ] nfs for x03 haplox
+- [ ] De Bruilin Graph for local assembly julia package
+- [ ] PairHMM for pair alignment julia package
+- [ ] spark standalone cluster
 
 ### 18/3
-- [ ] Presentation about M2
-- [ ] make PPT
+- [x] Presentation about M2
+- [x] make PPT
 - [ ] pick algorithm
 
 ### 17/3
