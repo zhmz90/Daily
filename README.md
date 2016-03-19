@@ -12,10 +12,10 @@
 - [x] Parallel MuTect2 on Cluster
 
 ### 19/3
-- [ ] nfs for x03 haplox
-- [ ] De Bruilin Graph for local assembly julia package
+- [x] nfs for x03 haplox success
+- [ ] De Bruijn Graph for local assembly julia package
 - [ ] PairHMM for pair alignment julia package
-- [ ] spark standalone cluster
+- [x] spark standalone cluster success
 
 ### 18/3
 - [x] Presentation about M2
