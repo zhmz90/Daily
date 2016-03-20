@@ -2,6 +2,8 @@
 
 :exclamation: **战必胜，攻必克** :exclamation:
 
+To measure is to known.
+
 ## month 3 / 2015
 
 
@@ -10,6 +12,9 @@
 ### Week Goals
 - [x] hack M2 throught
 - [x] Parallel MuTect2 on Cluster
+
+### 20/3
+- [x] DSA TsingHuaX week 1 and rank 107
 
 ### 19/3
 - [x] nfs for x03 haplox success
