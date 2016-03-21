@@ -6,8 +6,15 @@ To measure is to known.
 
 ## month 3 / 2015
 
+### Week Goals
+- [ ] finish local assembly with De Bruijn Graph 1
+- [ ] finish PairHMM 2-3
+- [ ] finish FM-index aligner 4
 
-
+### 21/3
+- [ ] De Bruijn Graph
+- [ ] Test Mutect2 local assembly part with data
+- [ ] how to use GATK in a new package both in java and scala
 
 ### Week Goals
 - [x] hack M2 throught
