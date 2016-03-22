@@ -11,10 +11,15 @@ To measure is to known.
 - [ ] finish PairHMM 2-3
 - [ ] finish FM-index aligner 4
 
+### 22/3
+- [ ] Fully understand intelij idea
+- [ ] java unit test for GATK
+
 ### 21/3
 - [ ] De Bruijn Graph
 - [ ] Test Mutect2 local assembly part with data
 - [ ] how to use GATK in a new package both in java and scala
+- [x] Tests in GATK
 
 ### Week Goals
 - [x] hack M2 throught
