@@ -1,4 +1,4 @@
-# Daily
+B1;3409;0c# Daily
 
 :exclamation: **战必胜，攻必克** :exclamation:
 
@@ -7,13 +7,18 @@ To measure is to known.
 ## month 3 / 2015
 
 ### Week Goals
+- [ ] Be able to use classes in GATK 
 - [ ] finish local assembly with De Bruijn Graph 1
 - [ ] finish PairHMM 2-3
 - [ ] finish FM-index aligner 4
 
+### 23/3
+- [ ] write a new walker based on Mutect2 with GATK in java and scala
+
 ### 22/3
-- [ ] Fully understand intelij idea
-- [ ] java unit test for GATK
+- [x] Fully understand intelij idea => part
+- [x] java unit test for GATK  => GATK its own test
+- [x] how to write a new walker with GATK in java and scala => part
 
 ### 21/3
 - [ ] De Bruijn Graph
