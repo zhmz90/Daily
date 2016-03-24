@@ -1,4 +1,4 @@
-B1;3409;0c# Daily
+# Daily
 
 :exclamation: **战必胜，攻必克** :exclamation:
 
@@ -11,6 +11,9 @@ To measure is to known.
 - [ ] finish local assembly with De Bruijn Graph 1
 - [ ] finish PairHMM 2-3
 - [ ] finish FM-index aligner 4
+
+### 24/3
+- [ ] write a new walker based on Mutect2 with GATK in java and scala
 
 ### 23/3
 - [ ] write a new walker based on Mutect2 with GATK in java and scala
