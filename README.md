@@ -6,11 +6,17 @@ To measure is to known.
 
 ## month 3 / 2015
 
+### Month Goal
+- [ ] GATK
+
 ### Week Goals
 - [ ] Be able to use classes in GATK 
 - [ ] finish local assembly with De Bruijn Graph 1
 - [ ] finish PairHMM 2-3
 - [ ] finish FM-index aligner 4
+
+### 25/3
+- [ ] minimum gatk with Bazel 
 
 ### 24/3
 - [ ] write a new walker based on Mutect2 with GATK in java and scala
