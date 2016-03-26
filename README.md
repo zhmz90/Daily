@@ -15,6 +15,9 @@ To measure is to known.
 - [ ] finish PairHMM 2-3
 - [ ] finish FM-index aligner 4
 
+### 26/3
+- [ ] master Bazel
+
 ### 25/3
 - [ ] minimum gatk with Bazel 
 
