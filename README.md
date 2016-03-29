@@ -6,9 +6,14 @@ To measure is to known.
 
 ## month 3 / 2015
 
+### 30/3
+- [ ] machine learning applications on Gene
+- [ ] compile gatk-engine
+- [ ] deep learning on gene expression and predict varant effects
+
 ### 29/3
-- [ ] DeepSEA
-- [ ] learn Lua
+- [x] DeepSEA
+- [x] learn Lua
 
 ### 28/3
 - [x] fix erros while building miniutils with bazel 
