@@ -6,6 +6,13 @@ To measure is to known.
 
 ## month 3 / 2015
 
+### 29/3
+- [ ] DeepSEA
+- [ ] learn Lua
+
+### 28/3
+- [x] fix erros while building miniutils with bazel 
+ 
 ### Month Goal
 - [ ] GATK
 
