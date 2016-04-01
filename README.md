@@ -4,6 +4,10 @@
 
 To measure is to known.
 
+### 1/4
+- [x] PPT
+- [x] compare prefermance of M2 and Varscan2
+
 ## month 3 / 2015
 
 ### 30/3
