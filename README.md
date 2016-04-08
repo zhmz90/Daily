@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 8/4
+- [ ] make bam2pileup matrix to hdf5 file
+
 ### 7/4
 - [ ] DarkVC
 
