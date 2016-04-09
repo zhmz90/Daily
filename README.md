@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 9/4
+- [ ] learn cnn 
+
 ### 8/4
 - [ ] make bam2pileup matrix to hdf5 file
 
