@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 10/4
+- [ ] deep learning getting
+
 ### 9/4
 - [ ] learn cnn 
 
