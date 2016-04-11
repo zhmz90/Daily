@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 11/4
+- [ ] cnn Mocha
+
 ### 10/4
 - [ ] deep learning getting
 
