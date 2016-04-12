@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 12/4
+- [ ] tensorflow, docker and aliyun
+
 ### 11/4
 - [ ] cnn Mocha
 
