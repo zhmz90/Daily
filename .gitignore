@@ -6,3 +6,5 @@
 *.zip
 *.gz
 */data/*
+*/*/*.zip
+*/*/MNIST_data
