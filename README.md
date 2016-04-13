@@ -5,7 +5,7 @@
 To measure is to known.
 
 ### 13/4
-- [ ] 
+- [ ] aliyu
 
 ### 12/4
 - [ ] tensorflow, docker and aliyun
