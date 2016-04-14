@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 14/4
+- [ ] pyjulia and cnn, lstm in tensorflow
+
 ### 13/4
 - [ ] aliyu
 
