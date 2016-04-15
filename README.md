@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 15/4
+- [ ] learn how to use tensorflow 
+
 ### 14/4
 - [ ] pyjulia and cnn, lstm in tensorflow
 
