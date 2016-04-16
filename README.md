@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 16/4
+- [ ] tensorflow
+
 ### 15/4
 - [ ] learn how to use tensorflow 
 
