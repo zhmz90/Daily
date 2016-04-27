@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 27/4
+- [ ] htslib.jl bam APIs finished
+
 ### 16/4
 - [ ] tensorflow
 
