@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 28/4
+- [ ] APIs of htslib
+
 ### 27/4
 - [ ] htslib.jl bam APIs finished
 
