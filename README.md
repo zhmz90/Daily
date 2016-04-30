@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 30/4
+- `StrPack.jl` to replace `struck` module in Python
+
 ### 28/4
 - [ ] APIs of htslib
 
