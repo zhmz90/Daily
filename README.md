@@ -4,6 +4,10 @@
 
 To measure is to known.
 
+### 4/5
+- LLVM
+- ccall
+
 ### 30/4
 - `StrPack.jl` to replace `struck` module in Python
 
