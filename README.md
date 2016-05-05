@@ -4,6 +4,12 @@
 
 To measure is to known.
 
+### 5/5
+- LLVM 
+- Julia Deeper
+- Assembly
+- CPP
+
 ### 4/5
 - LLVM
 - ccall
