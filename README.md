@@ -4,6 +4,12 @@
 
 To measure is to known.
 
+### 6/5
+- MITx Unit3,4
+- Fix BHTsne.jl 
+- Fix MINE.jl
+- Familar with LLVM IR and Assembly
+
 ### 5/5
 - LLVM 
 - Julia Deeper
