@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 9/5
+- HPV integration
+
 ### 6/5
 - MITx Unit3,4
 - Fix BHTsne.jl 
