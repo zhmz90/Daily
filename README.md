@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 10/5
+- HPVID base version
+
 ### 9/5
 - HPV integration
 
