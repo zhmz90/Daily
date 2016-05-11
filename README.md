@@ -1,11 +1,15 @@
 # Daily
 
-:exclamation: **战必胜，攻必克** :exclamation:
+:exclamation: **吃天下第一等苦** :exclamation:
 
 To measure is to known.
 
-### 10/5
+### 11/5
+- make a reference contains hg19 and all hpvs
 - HPVID base version
+
+### 10/5
+- HPVID base version [not finished]
 
 ### 9/5
 - HPV integration
