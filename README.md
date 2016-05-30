@@ -4,6 +4,10 @@
 
 To measure is to known.
 
+### 30/5
+- Finish Overlap.jl
+- A sold understanding about julia.h
+
 ### 11/5
 - make a reference contains hg19 and all hpvs
 - HPVID base version
