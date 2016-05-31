@@ -4,6 +4,11 @@
 
 To measure is to known.
 
+### 31/5
+- Bug: Pkg.update false
+- Julia: julia.h, julia_internal.h
+- **HIVID: aln, overlap, merge, aln, location**
+
 ### 30/5
 - Finish Overlap.jl
 - A sold understanding about julia.h
