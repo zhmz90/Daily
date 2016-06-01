@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### Julia TODO
+- methods of fieldname and fieldnames are not consistent
+
 ### 1/6
 - HIVID make it done
 
