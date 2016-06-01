@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### 1/6
+- HIVID make it done
+
 ### 31/5
 - Bug: Pkg.update false
 - Julia: julia.h, julia_internal.h
