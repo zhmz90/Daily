@@ -43,6 +43,10 @@ To measure is to known.
 ```
 - getfield exits but not getfields
 - string concation * ^
+- print_with_color is too long to write and use
+
+### 2/6
+- MH done
 
 ### 1/6
 - HIVID make it done
