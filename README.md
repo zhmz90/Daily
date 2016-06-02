@@ -6,7 +6,43 @@ To measure is to known.
 
 ### Julia TODO
 - methods of fieldname and fieldnames are not consistent
+```shell
+    julia> type Test
+              a::Int64
+              b::String
+            end
+            t = Test(1,"hello")
+    Test(1,"hello")
+    
+    julia> fieldnames(Test)
+        2-element Array{Symbol,1}:
+    :a
+    :b
+  
+    julia> fieldnames(t)
+     2-element Array{Symbol,1}:
+      :a
+      :b
+      
+    julia> fieldname(Test,1)
+      :a
+      
+    julia> fieldname(Test,2)
+      :b
+      
+    julia> fieldname(t,1)
+      ERROR: MethodError: no method matching fieldname(::Test, ::Int64)
+      Closest candidates are:
+        fieldname{T<:Tuple}(::Type{T<:Tuple}, ::Integer)
+          fieldname(::DataType, ::Integer)
+           in eval(::Module, ::Any) at ./boot.jl:225
+            in macro expansion at ./REPL.jl:92 [inlined]
+             in (::Base.REPL.##1#2{Base.REPL.REPLBackend})() at ./event.jl:46
+     
+        
+```
 - getfield exits but not getfields
+- string concation * ^
 
 ### 1/6
 - HIVID make it done
