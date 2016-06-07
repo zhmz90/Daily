@@ -10,6 +10,7 @@ To measure is to known.
 - CodeAnalysis.jl for Julia, C, C++
 
 ### Julia TODO
+- fucntion sequence()::Int64 end not clear error msg
 - methods of fieldname and fieldnames are not consistent
 ```shell
     julia> type Test
