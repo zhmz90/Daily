@@ -4,6 +4,10 @@
 
 To measure is to known.
 
+### Gideon
+- Mini Julia
+- Julia for CUDA
+
 ### Julia TODO
 - methods of fieldname and fieldnames are not consistent
 ```shell
