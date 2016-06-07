@@ -7,6 +7,7 @@ To measure is to known.
 ### Gideon
 - Mini Julia
 - Julia for CUDA
+- CodeAnalysis.jl for Julia, C, C++
 
 ### Julia TODO
 - methods of fieldname and fieldnames are not consistent
