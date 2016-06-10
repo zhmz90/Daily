@@ -8,10 +8,18 @@ To measure is to known.
 - Mini Julia
 - Julia for CUDA
 - CodeAnalysis.jl for Julia, C, C++
+- Kaleidoscope.jl
+- COOL, COOL.jl
+
+### 10/6
+- [ ] COOL
 
 ### Julia TODO
-- fucntion sequence()::Int64 end not clear error msg
-- methods of fieldname and fieldnames are not consistent
+-[ ] WARNING: could not import Base.complement into DataStructures
+     WARNING: could not import Base.complement! into DataStructures
+- [x] IO regression and readavailable(IOStream) 
+- [x] fucntion sequence()::Int64 end not clear error msg
+- [ ] methods of fieldname and fieldnames are not consistent
 ```shell
     julia> type Test
               a::Int64
