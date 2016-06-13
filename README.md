@@ -10,12 +10,16 @@ To measure is to known.
 - CodeAnalysis.jl for Julia, C, C++
 - Kaleidoscope.jl
 - COOL, COOL.jl
+- new topology and opt algorithm for network
+
+### 13/6
+- [ ] Vy-PER
 
 ### 10/6
 - [ ] COOL
 
 ### Julia TODO
--[ ] WARNING: could not import Base.complement into DataStructures
+- [ ] WARNING: could not import Base.complement into DataStructures
      WARNING: could not import Base.complement! into DataStructures
 - [x] IO regression and readavailable(IOStream) 
 - [x] fucntion sequence()::Int64 end not clear error msg
