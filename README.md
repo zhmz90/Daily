@@ -12,8 +12,11 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 15/6
+- [ ] pass Vy-PER on next-generate sequence data
+
 ### 14/6
-- [ ] run Vy-PER on my data
+- [x] run Vy-PER on my data
 
 ### 13/6
 - [x] Vy-PER
