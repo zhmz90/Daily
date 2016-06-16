@@ -11,9 +11,13 @@ To measure is to known.
 - Kaleidoscope.jl
 - COOL, COOL.jl
 - new topology and opt algorithm for network
+- @sprintf a `julia` bug ?
+
+### 16/6
+- [ ] digest Vy-PER
 
 ### 15/6
-- [ ] pass Vy-PER on next-generate sequence data
+- [x] pass Vy-PER on next-generate sequence data without the final filter
 
 ### 14/6
 - [x] run Vy-PER on my data
