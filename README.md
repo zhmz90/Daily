@@ -13,8 +13,11 @@ To measure is to known.
 - new topology and opt algorithm for network
 - @sprintf a `julia` bug ?
 
+### 17/6
+- [x] test julia version of Vy-PER
+
 ### 16/6
-- [ ] digest Vy-PER
+- [x] digest Vy-PER
 
 ### 15/6
 - [x] pass Vy-PER on next-generate sequence data without the final filter
