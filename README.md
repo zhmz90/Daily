@@ -13,6 +13,9 @@ To measure is to known.
 - new topology and opt algorithm for network
 - @sprintf a `julia` bug ?
 
+### 18/6
+- [ ] test julia version of Vy-PER and try Azimuth
+
 ### 17/6
 - [x] test julia version of Vy-PER
 
