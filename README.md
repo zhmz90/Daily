@@ -11,7 +11,6 @@ To measure is to known.
 - Kaleidoscope.jl
 - COOL, COOL.jl
 - new topology and opt algorithm for network
-- @sprintf a `julia` bug ?
 
 ### 19/6
 - [ ] rewrite blatsam and test it on real data
