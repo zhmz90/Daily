@@ -13,8 +13,11 @@ To measure is to known.
 - new topology and opt algorithm for network
 - @sprintf a `julia` bug ?
 
+### 19/6
+- [ ] rewrite blatsam and test it on real data
+
 ### 18/6
-- [ ] test julia version of Vy-PER and try Azimuth
+- [x] test julia version of Vy-PER and rewrite sam2fas
 
 ### 17/6
 - [x] test julia version of Vy-PER
