@@ -12,8 +12,11 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 22/6
+- [ ] rewrite final_fitering
+
 ### 19/6
-- [ ] rewrite blatsam and test it on real data
+- [x] rewrite blatsam and test it on real data
 
 ### 18/6
 - [x] test julia version of Vy-PER and rewrite sam2fas
