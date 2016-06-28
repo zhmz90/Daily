@@ -4,6 +4,9 @@
 
 To measure is to known.
 
+### Beat MSR
+- [ ] STARS
+
 ### Gideon
 - Mini Julia
 - Julia for CUDA
@@ -13,7 +16,7 @@ To measure is to known.
 - new topology and opt algorithm for network
 
 ### 28/6
-- [ ] read MR's paper again
+- [x] read MR's paper again
 - [ ] funetine pipeline of Vy-PER
 
 ### 27/6
