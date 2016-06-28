@@ -12,9 +12,15 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 27/6
+- summary of last week
+- plan of this week
+- communicate with Hu
+- reading paper from MR one time
+
 ### 25/6
-- [ ] run vyper
-- [ ] run azimuth
+- [x] run vyper
+- [x] run azimuth
 
 ### 24/6
 - [ ] finish vy-per testing
