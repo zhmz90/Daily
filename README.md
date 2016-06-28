@@ -12,6 +12,10 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 28/6
+- [ ] read MR's paper again
+- [ ] funetine pipeline of Vy-PER
+
 ### 27/6
 - summary of last week
 - plan of this week
