@@ -15,9 +15,14 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
-### 29/6
-- [ ] collect data relevant to Proj S
-- [ ] understand 2016
+### 1/7
+- [ ] MH Vy-PER paper comprehension
+- [ ] dive to Azimuth code and algorithm
+- [ ] read paper of Azimuth
+
+### 29/6 - 30/6
+- [x] collect data relevant to Proj S, the result is collect several labs
+- [x] understand 2016 but still a lot of questions
 
 ### 28/6
 - [x] read MR's paper again
