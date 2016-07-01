@@ -19,6 +19,7 @@ To measure is to known.
 - [ ] MH Vy-PER paper comprehension
 - [ ] dive to Azimuth code and algorithm
 - [ ] read paper of Azimuth
+- [ ] try to learn some NoSQL databases
 
 ### 29/6 - 30/6
 - [x] collect data relevant to Proj S, the result is collect several labs
