@@ -15,6 +15,11 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 2/7
+- [ ] Julia.h julia_internal.h 
+- [ ] JuliaCon2016
+- [ ] GRE 3 days words
+
 ### 1/7
 - [ ] MH Vy-PER paper comprehension
 - [ ] dive to Azimuth code and algorithm
