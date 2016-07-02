@@ -4,6 +4,8 @@
 
 To measure is to known.
 
+### Try something new each day
+
 ### Beat MSR
 - [ ] STARS
 
