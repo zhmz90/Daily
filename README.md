@@ -18,9 +18,9 @@ To measure is to known.
 - new topology and opt algorithm for network
 
 ### 2/7
-- [ ] Julia.h julia_internal.h 
-- [ ] JuliaCon2016
-- [ ] GRE 3 days words
+- [x] Julia.h julia_internal.h 
+- [x] JuliaCon2016 part videos
+- [x] GRE 2 days words
 
 ### 1/7
 - [ ] MH Vy-PER paper comprehension
