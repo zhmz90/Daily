@@ -17,6 +17,17 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 4/7
+- [ ] weekly summary and plan
+- [ ] DataExpore.jl
+- [ ] MH question
+- [ ] STRs and homopolymers 
+- [ ] sgRNA design basics
+
+### 3/7
+- [x] GRE word 2 day
+- [x] JuliaCon machine code
+
 ### 2/7
 - [x] Julia.h julia_internal.h 
 - [x] JuliaCon2016 part videos
