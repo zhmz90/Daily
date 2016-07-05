@@ -9,3 +9,5 @@
 */*/*.zip
 */*/*.csv
 */*/MNIST_data
+*/*/.tsv
+*/*/.csv

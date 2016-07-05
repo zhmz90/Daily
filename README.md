@@ -18,7 +18,7 @@ To measure is to known.
 - new topology and opt algorithm for network
 
 ### 4/7
-- [ ] weekly summary and plan
+- [x] weekly summary and plan
 - [ ] DataExpore.jl
 - [ ] MH question
 - [ ] STRs and homopolymers 
