@@ -17,6 +17,11 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 5/7
+- [ ] MSR's code
+- [ ] GeneticAlgorithm
+- [ ] mechanisms of sv 
+
 ### 4/7
 - [x] weekly summary and plan
 - [ ] DataExpore.jl
