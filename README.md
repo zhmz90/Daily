@@ -17,10 +17,15 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 7/7
+- [ ] vyper pipeline
+- [ ] fix bug of keyerror
+
 ### 5/7
-- [ ] MSR's code
-- [ ] GeneticAlgorithm
-- [ ] mechanisms of sv 
+- [x] MSR's code: not clear the way of hack
+- [x] GeneticAlgorithm called
+- [x] mechanisms of sv: look througth a little
+- [x] vyper pipeline and get breakpoint, not done
 
 ### 4/7
 - [x] weekly summary and plan
