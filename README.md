@@ -17,6 +17,9 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 8/7
+- [ ] download all the genomes from ensembl
+
 ### 7/7
 - [ ] vyper pipeline
 - [ ] fix bug of keyerror
