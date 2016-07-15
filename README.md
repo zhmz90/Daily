@@ -17,9 +17,14 @@ To measure is to known.
 - COOL, COOL.jl
 - new topology and opt algorithm for network
 
+### 15/7
+- [ ] baseline of Project S
+- [ ] dig 14 paper
+
 ### 14/7
-- [ ] data preprocess
+- [x] data preprocess
 - [ ] CNN/softmax as base model
+- [x] read 14 Broad's paper
 
 ### 13/7
 - [x] deep learning on genomics 
