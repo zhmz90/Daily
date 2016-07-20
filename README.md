@@ -6,9 +6,17 @@ To measure is to known.
 
 ### Try something new each day
 
+### 20/7
+- [ ] train sgRNA dataset 
+
+### 19/7
+- [x] two+ paper of sgRNA
+- [x] download ImageNet datasets
+
 ### 18/7
-- [ ] train LeNet-5 CNN
+- [x] train LeNet-5 CNN
 - [ ] test ResNet on toy dataset
+
 
 ### Beat MSR
 - [ ] STARS
