@@ -4,7 +4,15 @@
 
 To measure is to known.
 
+# For Freedom
+
 ### Try something new each day
+
+### 27/7
+**Refactor code of DeepSomaticSNV**
+- [ ] data preprocessing
+- [ ] model various parameters
+- [ ] various stats such as log analysis
 
 ### 20/7
 - [ ] train sgRNA dataset 
