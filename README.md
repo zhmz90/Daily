@@ -6,11 +6,18 @@ To measure is to known.
 
 # For Freedom
 
+## Foucus on Deep Learning
+- TensorFlow [C++,C,CUDA,Python,Bazel]
+- CS231n, CS224d
+
 ### Try something new each day
+
+### 7/8
+- [ ] quick go through CS224d from 15:30 to 18:00
 
 ### 27/7
 **Refactor code of DeepSomaticSNV**
-- [ ] data preprocessing
+- [x] data preprocessing
 - [ ] model various parameters
 - [ ] various stats such as log analysis
 
