@@ -9,11 +9,15 @@ To measure is to known.
 ## Foucus on Deep Learning
 - TensorFlow [C++,C,CUDA,Python,Bazel]
 - CS231n, CS224d
+- DeepSomaticSNV 
 
 ### Try something new each day
 
+### 8/8
+- [ ] check the correctness of data and train benchmark model
+
 ### 7/8
-- [ ] quick go through CS224d from 15:30 to 18:00
+- [x] quick go through CS224d from 15:30 to 18:00
 
 ### 27/7
 **Refactor code of DeepSomaticSNV**
