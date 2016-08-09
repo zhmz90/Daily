@@ -13,8 +13,12 @@ To measure is to known.
 
 ### Try something new each day
 
+### 9/8
+- [ ] faimilar with LSTMs
+- [ ] Genome data
+
 ### 8/8
-- [ ] check the correctness of data and train benchmark model
+- [x] check the correctness of data and train benchmark model
 
 ### 7/8
 - [x] quick go through CS224d from 15:30 to 18:00
