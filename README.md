@@ -13,6 +13,9 @@ To measure is to known.
 
 ### Try something new each day
 
+### 16/8
+- [ ] train CNN, LSTMs with Torch
+
 ### 9/8
 - [ ] faimilar with LSTMs
 - [ ] Genome data
