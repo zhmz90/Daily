@@ -10,5 +10,5 @@ times = try
 end
 for i in 1:times
     run(`$cmd`)
-    sleep(1)
+    sleep(2)
 end
