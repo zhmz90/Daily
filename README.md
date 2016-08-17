@@ -13,6 +13,10 @@ To measure is to known.
 
 ### Try something new each day
 
+### 17/8
+- [ ] LSTMs with torch
+- [ ] prepare blog of dllab.org
+
 ### 16/8
 - [ ] train CNN, LSTMs with Torch
 
