@@ -13,6 +13,10 @@ To measure is to known.
 
 ### Try something new each day
 
+### 18/8
+- [ ] apply torch-rnn to Genome
+- [ ] build Deep Bidirectional LSTMs with rnn in torch7
+
 ### 17/8
 - [ ] LSTMs with torch
 - [ ] prepare blog of dllab.org
