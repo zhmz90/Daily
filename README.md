@@ -13,13 +13,17 @@ To measure is to known.
 
 ### Try something new each day
 
+### 19/8
+- [ ] build DBLSTM to predict sequence on chr1
+
 ### 18/8
-- [ ] apply torch-rnn to Genome
-- [ ] build Deep Bidirectional LSTMs with rnn in torch7
+- [x] apply torch-rnn to Genome
+- [x] build Deep Bidirectional LSTMs with rnn in torch7
 
 ### 17/8
-- [ ] LSTMs with torch
-- [ ] prepare blog of dllab.org
+- [x] LSTMs with torch
+- [x] prepare blog of dllab.org
+- [x] test post with octopress
 
 ### 16/8
 - [ ] train CNN, LSTMs with Torch
