@@ -13,6 +13,10 @@ To measure is to known.
 
 ### Try something new each day
 
+### 20/8
+- [ ] fist step with Julia
+- [ ] build simple LSTM to predict chr1 with torch
+
 ### 19/8
 - [ ] build DBLSTM to predict sequence on chr1
 
