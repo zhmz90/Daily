@@ -13,6 +13,9 @@ To measure is to known.
 
 ### Try something new each day
 
+### 21/8
+- [ ] learn to how to build RNNs with TensorFlow
+
 ### 20/8
 - [ ] fist step with Julia
 - [ ] build simple LSTM to predict chr1 with torch
