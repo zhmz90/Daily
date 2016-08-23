@@ -13,8 +13,11 @@ To measure is to known.
 
 ### Try something new each day
 
+### 22/8
+- [ ] learn to work with tensorflow source code
+
 ### 21/8
-- [ ] learn to how to build RNNs with TensorFlow
+- [x] learn to how to build RNNs with TensorFlow
 
 ### 20/8
 - [ ] fist step with Julia
