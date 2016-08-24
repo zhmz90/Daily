@@ -13,8 +13,16 @@ To measure is to known.
 
 ### Try something new each day
 
+### 23/8
+- [x] the bug of pywrap_tensorflow disappeared and everything goes toward expected.
+- [ ] learn how to build sophisticated RNNs and CNNs
+
 ### 22/8
-- [ ] learn to work with tensorflow source code
+- [x] learn to work with tensorflow source code
+- [x] the layout of tensorflow source code 
+- [x] swig
+- [x] understanding and visualizing CNN 
+- [x] finished files for the development of NGS data analysis core software
 
 ### 21/8
 - [x] learn to how to build RNNs with TensorFlow
