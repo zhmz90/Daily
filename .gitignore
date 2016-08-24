@@ -11,3 +11,7 @@
 */*/MNIST_data
 */*/.tsv
 */*/.csv
+*.h5
+*.json
+*.hdf5
+*.txt

@@ -13,6 +13,39 @@ To measure is to known.
 
 ### Try something new each day
 
+### 23/8
+- [x] the bug of pywrap_tensorflow disappeared and everything goes toward expected.
+- [ ] learn how to build sophisticated RNNs and CNNs
+
+### 22/8
+- [x] learn to work with tensorflow source code
+- [x] the layout of tensorflow source code 
+- [x] swig
+- [x] understanding and visualizing CNN 
+- [x] finished files for the development of NGS data analysis core software
+
+### 21/8
+- [x] learn to how to build RNNs with TensorFlow
+
+### 20/8
+- [ ] fist step with Julia
+- [ ] build simple LSTM to predict chr1 with torch
+
+### 19/8
+- [ ] build DBLSTM to predict sequence on chr1
+
+### 18/8
+- [x] apply torch-rnn to Genome
+- [x] build Deep Bidirectional LSTMs with rnn in torch7
+
+### 17/8
+- [x] LSTMs with torch
+- [x] prepare blog of dllab.org
+- [x] test post with octopress
+
+### 16/8
+- [ ] train CNN, LSTMs with Torch
+
 ### 9/8
 - [ ] faimilar with LSTMs
 - [ ] Genome data
