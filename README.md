@@ -1,20 +1,15 @@
 # Daily
 
-:exclamation: **吃天下第一等苦** :exclamation:
-
-To measure is to known.
-
-# For Freedom
+**RUN, RUN, RUN**
+### Try something new each day
 
 ## Foucus on Deep Learning
 - TensorFlow [C++,C,CUDA,Python,Bazel]
 - CS231n, CS224d
 - DeepSomaticSNV
 
-### Try something new each day
-
 ### 25/8
-- [ ] learn the preprocessinng API of tensorflow
+- [x] learn the preprocessinng API of tensorflow
 - [ ] build LSTM_CNN model
 
 ### 24/8
