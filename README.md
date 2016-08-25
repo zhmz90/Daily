@@ -9,15 +9,20 @@ To measure is to known.
 ## Foucus on Deep Learning
 - TensorFlow [C++,C,CUDA,Python,Bazel]
 - CS231n, CS224d
-- DeepSomaticSNV 
+- DeepSomaticSNV
 
 ### Try something new each day
 
-### 23/8
+### 25/8
+- [ ] learn the preprocessinng API of tensorflow
+- [ ] build LSTM_CNN model
+
+### 24/8
 - [x] the bug of pywrap_tensorflow disappeared and everything goes toward expected.
+- [x] learn various tutorials and sovle a segment fault (core dumped) due to out of memory
 - [ ] learn how to build sophisticated RNNs and CNNs
 
-### 22/8
+### 23/8
 - [x] learn to work with tensorflow source code
 - [x] the layout of tensorflow source code 
 - [x] swig
