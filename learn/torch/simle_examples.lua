@@ -57,3 +57,72 @@ N = 5
 x = torch.rand(N)
 
 print(optim.cg(JdJ, x, state))
+
+
+
+evaluations = {}
+time = {}
+timer = torch.Timer()
+neval = 0
+function JdJ(x)
+   local Jx = J(x)
+   neval = neval + 1
+   print(string.format('after %d evaluations, J(x) = %f', neval, Jx))
+   table.insert(evaluations, Jx)
+   table.insert(time, timer:time().real)
+   return Jx, dJ(x)
+end
+
+state = {
+   verbose = true,
+   maxIter = 100
+}
+
+x0 = torch.rand(N)
+cgx = x0:clone() -- make a copy of x0
+timer:reset()
+optim.cg(JdJ, cgx, state)
+
+-- we convert the evaluations and time tables to tensors for plotting:
+cgtime = torch.Tensor(time)
+cgevaluations = torch.Tensor(evaluations)
+
+evaluations = {}
+time = {}
+neval = 0
+state = {
+  lr = 0.1
+}
+
+-- we start from the same starting point than for CG
+x = x0:clone()
+
+-- reset the timer!
+timer:reset()
+
+-- note that SGD optimizer requires us to do the loop
+for i=1,1000 do
+  optim.sgd(JdJ, x, state)
+  table.insert(evaluations, Jx)
+end
+
+sgdtime = torch.Tensor(time)
+sgdevaluations = torch.Tensor(evaluations)
+require 'gnuplot'
+gnuplot.figure(1)
+gnuplot.title('CG loss minimisation over time')
+gnuplot.plot(cgtime, cgevaluations)
+
+gnuplot.figure(2)
+gnuplot.title('SGD loss minimisation over time')
+gnuplot.plot(sgdtime, sgdevaluations)
+
+gnuplot.pngfigure('plot.png')
+gnuplot.plot(
+   {'CG',  cgtime,  cgevaluations,  '-'},
+   {'SGD', sgdtime, sgdevaluations, '-'})
+gnuplot.xlabel('time (s)')
+gnuplot.ylabel('J(x)')
+gnuplot.plotflush()
+
+
