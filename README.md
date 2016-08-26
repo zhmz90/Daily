@@ -8,6 +8,10 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 26/8
+- [ ] get faimilar with tensorflow
+- [ ] try to preprocess data with tensorflow
+
 ### 25/8
 - [x] learn the preprocessinng API of tensorflow
 - [ ] build LSTM_CNN model
