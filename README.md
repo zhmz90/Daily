@@ -8,9 +8,14 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 27/8
+- [ ] MINE.jl
+- [ ] learn emacs
+- [ ] blog about emacs, gdb and c++
+
 ### 26/8
-- [ ] get faimilar with tensorflow
-- [ ] try to preprocess data with tensorflow
+- [x] get faimilar with tensorflow
+- [x] try to preprocess data with tensorflow
 
 ### 25/8
 - [x] learn the preprocessinng API of tensorflow
