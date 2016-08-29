@@ -8,9 +8,17 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 29/8
+- [x] finish writing for company
+
+### 28/8
+- [x] add about in my blog
+- [x] basic c call cpp, julia call c demo
+- [x] Deep Reinforcement Learning one of Four without lab1
+
 ### 27/8
 - [ ] MINE.jl
-- [ ] learn emacs
+- [x] learn emacs
 - [ ] blog about emacs, gdb and c++
 
 ### 26/8
