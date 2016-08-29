@@ -13,6 +13,7 @@
 - [x] Finish writing for company
 - [ ] cs231n, cs224d slides
 - [ ] tensorflow usage
+- [ ] write a blog about bazel build in tensorflow
 
 ### 28/8
 - [x] add about in my blog
