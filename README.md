@@ -1,15 +1,18 @@
 # Daily
 
-**RUN, RUN, RUN**
+**RUN, RUN, RUN For FATBD**
+
 ### Try something new each day
 
 ## Foucus on Deep Learning
-- TensorFlow [C++,C,CUDA,Python,Bazel]
+- TensorFlow [C++, CUDA]
 - CS231n, CS224d
 - DeepSomaticSNV
 
 ### 29/8
-- [x] finish writing for company
+- [x] Finish writing for company
+- [ ] cs231n, cs224d slides
+- [ ] tensorflow usage
 
 ### 28/8
 - [x] add about in my blog
