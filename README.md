@@ -9,6 +9,10 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 30/9
+- [x] write notes about lecture 1~7 of cs231n
+- [ ] write notes about lecture 8~15 of cs231n
+
 ### 29/8
 - [x] Finish writing for company
 - [ ] cs231n, cs224d slides
