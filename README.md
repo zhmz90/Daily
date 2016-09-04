@@ -9,9 +9,13 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 4/9
+- [ ] emacs various mode
+- [ ] serizure prediction data preprocessing
+
 ### 1/9
 - [ ] shared memory in different process 
-- [ ] write notes about lecuter 13,14,15 of cs231n
+- [x] write notes about lecuter 13,14 of cs231n
 
 ### 31/8
 - [x] write notes about lecture 8~13 of cs231n
