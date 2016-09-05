@@ -9,8 +9,12 @@
 - CS231n, CS224d
 - DeepSomaticSNV
 
+### 5/9
+- [ ] build julia etc
+- [ ] learn from the 10th old competitor
+
 ### 4/9
-- [ ] emacs various mode
+- [x] emacs various mode
 - [ ] serizure prediction data preprocessing
 
 ### 1/9
