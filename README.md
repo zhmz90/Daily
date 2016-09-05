@@ -1,17 +1,17 @@
 # Daily
 
-**RUN, RUN, RUN For FATBD**
+**RUN, RUN, RUN**
 
-### Try something new each day
+### Keep Curious, Keep Passion
 
 ## Foucus on Deep Learning
 - TensorFlow [C++, CUDA]
 - CS231n, CS224d
-- DeepSomaticSNV
 
 ### 5/9
-- [ ] build julia etc
+- [ ] build julia, openssl, libgit2, curl etc
 - [ ] learn from the 10th old competitor
+- [ ] setup octopress blog system
 
 ### 4/9
 - [x] emacs various mode
