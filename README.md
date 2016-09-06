@@ -8,9 +8,13 @@
 - TensorFlow [C++, CUDA]
 - CS231n, CS224d
 
+### 6/9
+- [x] move home
+- [ ] build julia, openssl, libgit2, curl etc
+
 ### 5/9
 - [ ] build julia, openssl, libgit2, curl etc
-- [ ] learn from the 10th old competitor
+- [x] learn from the 10th old competitor
 - [ ] setup octopress blog system
 
 ### 4/9
