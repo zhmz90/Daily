@@ -5,9 +5,25 @@
 ### Keep Curious, Keep Passion
 
 ## Foucus on Deep Learning
-- TensorFlow [C++, CUDA]
+- TensorFlow [C++, CUDA, Python]
 - CS231n, CS224d
 
+### TODO
+- [ ] rebuild Ubuntu
+- [ ] emacs auto compelete for python, C++
+- [ ] gdb for c++ 
+- [ ] octopress blog
+- [ ] master tensorflow
+- [ ] cs231n
+- [ ] cs224d
+- [ ] deep reinforcement learning course
+
+### 7/9
+- [x] resign signments etc.
+- [x] shopping for basic life
+- [x] Jeff Dean's presentation on Deep Learning Summer School
+- [x] A tour through the tensorflow codebase
+ 
 ### 6/9
 - [x] move home
 - [ ] build julia, openssl, libgit2, curl etc
