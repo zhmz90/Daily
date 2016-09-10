@@ -9,14 +9,23 @@
 - CS231n, CS224d
 
 ### TODO
-- [ ] rebuild Ubuntu
-- [ ] emacs auto compelete for python, C++
+- [x] rebuild Ubuntu
+- [x] emacs auto compelete for python, C++
 - [ ] gdb for c++ 
-- [ ] octopress blog
-- [ ] master tensorflow
+- [x] hexo blog
+- [x] master tensorflow
 - [ ] cs231n
 - [ ] cs224d
 - [ ] deep reinforcement learning course
+
+### 10/9
+- [ ] first step with Julia
+
+### 8/9
+- [x] reinstall ubuntu
+- [x] return key and card
+- [x] build julia, tensorflow, hexo
+- [ ] first step with julia
 
 ### 7/9
 - [x] resign signments etc.
