@@ -18,6 +18,9 @@
 - [ ] cs224d
 - [ ] deep reinforcement learning course
 
+### 14/9
+- [ ] first step with Julia
+
 ### 10/9
 - [ ] first step with Julia
 
