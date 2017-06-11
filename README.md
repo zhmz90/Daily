@@ -1,22 +1,15 @@
 # Daily
 
-**RUN, RUN, RUN**
 
 ### Keep Curious, Keep Passion
 
-## Foucus on Deep Learning
-- TensorFlow [C++, CUDA, Python]
-- CS231n, CS224d
 
-### TODO
-- [x] rebuild Ubuntu
-- [x] emacs auto compelete for python, C++
-- [ ] gdb for c++ 
-- [x] hexo blog
-- [x] master tensorflow
-- [ ] cs231n
-- [ ] cs224d
-- [ ] deep reinforcement learning course
+### 11/6
+- [ ] website ltguo.me
+- [ ] c++
+- [ ] DSA
+
+------------------------------
 
 ### 14/9
 - [ ] first step with Julia
