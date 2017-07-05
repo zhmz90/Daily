@@ -1,8 +1,11 @@
 # Daily
 
 
-### Keep Curious, Keep Passion
+<h1 style="background-color:black; color:Blue">Make it simple</h1>
 
+
+### 13/6
+- [ ] Julia Wrapper for MINE
 
 ### 11/6
 - [ ] website ltguo.me
